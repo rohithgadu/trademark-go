@@ -12,7 +12,7 @@
 - `Libraries` `Gorilla Mux, GORM`
 
 
-## Message to recruitments@trademarkia.com
+## To recruitments@trademarkia.com
 
 ### Approach to Parse XML file to JSON
  - First I stored the given files in post-data folder (I did not commit those to githud as there were more than 20,000 files).
