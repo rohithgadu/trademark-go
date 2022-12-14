@@ -1,10 +1,31 @@
 package models
 
-import "github.com/jinzhu/gorm"
+import (
+	"github.com/jinzhu/gorm"
+	"go-demo/pkg/config"
+)
 
-//type FinalStruct struct {
-//	Root Root `json:"root"`
-//}
+//	type FinalStruct struct {
+//		Root Root `json:"root"`
+//	}
+var db *gorm.DB
+
+func init() {
+	config.Connect()
+	db = config.GetDB()
+	db.AutoMigrate(&Root{})
+}
+
+func (record Root) CreateRecord() {
+	db.NewRecord(record)
+	db.Create(&record)
+}
+
+func GetRecordById(Id int64) (*Root, *gorm.DB) {
+	var getRecord Root
+	db := db.Where("ID=?", Id).Find(&getRecord)
+	return &getRecord, db
+}
 
 type Root struct {
 	gorm.Model
