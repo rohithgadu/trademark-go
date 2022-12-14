@@ -76,7 +76,7 @@
 
 - I used GORM, it  did not create my entire struct, instead it  created a table with fields only for a few attributes.
 - I checked my json tags in the struct it was matching with the JSON but still I could not find the error.
-
+- Mostly I build rest services and Microservices using Java spring boot, recently I started doing it in GoLang and I'm loving it, I have not able to complete the assignment that is creating an API and dockerizing it , but that does not mean I do not know how to do it, I did some small projects using GoLang and building REST APIs, if you have time please see my repositories. Thank you                  
 - Output of the parsed 1.xml
 
 	```json
