@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><tmk:TrademarkApplication xmlns:catmk="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Trademark" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:ns3="http://www.oasis-open.org/tables/exchange/1.0" xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:cacom="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Common" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" com:st96Version="V3_0" com:ipoVersion="V1_4">
+    <tmk:RequestSearch>
+        <tmk:RequestSearchCategory>Normal</tmk:RequestSearchCategory>
+    </tmk:RequestSearch>
+    <com:RequestExamination>
+        <com:RequestExaminationCategory>Normal</com:RequestExaminationCategory>
+    </com:RequestExamination>
+    <tmk:TrademarkBag>
+        <tmk:Trademark com:operationCategory="Update">
+            <com:RegistrationOfficeCode>CA</com:RegistrationOfficeCode>
+            <com:ReceivingOfficeCode>CA</com:ReceivingOfficeCode>
+            <com:ReceivingOfficeDate>2001-10-12</com:ReceivingOfficeDate>
+            <com:ApplicationNumber>
+                <com:IPOfficeCode>CA</com:IPOfficeCode>
+                <com:ST13ApplicationNumber>300000105761400</com:ST13ApplicationNumber>
+            </com:ApplicationNumber>
+            <com:ApplicationDate>2000-05-03</com:ApplicationDate>
+            <com:FilingPlace>Canada</com:FilingPlace>
+            <com:ApplicantFileReference>68432-358</com:ApplicantFileReference>
+            <com:ApplicationLanguageCode>en</com:ApplicationLanguageCode>
+            <tmk:MarkCurrentStatusCode>Application withdrawn</tmk:MarkCurrentStatusCode>
+            <tmk:MarkCurrentStatusDate>2001-10-19</tmk:MarkCurrentStatusDate>
+            <tmk:MarkCategory>Trademark</tmk:MarkCategory>
+            <tmk:MarkRepresentation>
+                <tmk:MarkFeatureCategory>Word</tmk:MarkFeatureCategory>
+                <tmk:MarkReproduction>
+                    <tmk:WordMarkSpecification>
+                        <tmk:MarkVerbalElementText>CERIDIAN</tmk:MarkVerbalElementText>
+                        <tmk:MarkSignificantVerbalElementText>CERIDIAN</tmk:MarkSignificantVerbalElementText>
+                        <tmk:MarkStandardCharacterIndicator>false</tmk:MarkStandardCharacterIndicator>
+                    </tmk:WordMarkSpecification>
+                </tmk:MarkReproduction>
+            </tmk:MarkRepresentation>
+            <tmk:NonUseCancelledIndicator>false</tmk:NonUseCancelledIndicator>
+            <tmk:TradeDistinctivenessIndicator>false</tmk:TradeDistinctivenessIndicator>
+            <tmk:UseRight>
+                <tmk:UseRightIndicator>false</tmk:UseRightIndicator>
+            </tmk:UseRight>
+            <com:CommentText>The Canadian Intellectual Property Office does not warrant the accuracy of the information contained within this database. Recent updates, corrections or changes may not be included. / L'Office de la propriété intellectuelle du Canada ne garantit pas l'exactitude de l'information contenue dans cette base de données. Il se peut que les mises à jour, corrections ou changements récemment effectués n'y figurent pas.</com:CommentText>
+            <tmk:GoodsServicesBag>
+                <tmk:GoodsServices>
+                    <tmk:GoodsServicesClassificationBag>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>17</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Rubber and rubber goods</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                    </tmk:GoodsServicesClassificationBag>
+                    <tmk:NationalGoodsServices>
+                        <tmk:NationalClassTotalQuantity>1</tmk:NationalClassTotalQuantity>
+                    </tmk:NationalGoodsServices>
+                    <tmk:NationalFilingBasis>
+                        <tmk:CurrentBasis>
+                            <tmk:BasisForeignApplicationIndicator>false</tmk:BasisForeignApplicationIndicator>
+                            <tmk:BasisForeignRegistrationIndicator>false</tmk:BasisForeignRegistrationIndicator>
+                            <tmk:BasisUseIndicator>false</tmk:BasisUseIndicator>
+                            <tmk:BasisIntentToUseIndicator>true</tmk:BasisIntentToUseIndicator>
+                            <tmk:NoBasisIndicator>false</tmk:NoBasisIndicator>
+                        </tmk:CurrentBasis>
+                    </tmk:NationalFilingBasis>
+                    <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                    <tmk:ClassDescriptionBag>
+                        <tmk:ClassDescription>
+                            <tmk:GoodsServicesDescriptionText com:sequenceNumber="Goods1" com:languageCode="en">Nonmetallic material for manufacturing bathing fixtures.</tmk:GoodsServicesDescriptionText>
+                        </tmk:ClassDescription>
+                    </tmk:ClassDescriptionBag>
+                </tmk:GoodsServices>
+            </tmk:GoodsServicesBag>
+            <tmk:ApplicantBag>
+                <tmk:Applicant>
+                    <com:LegalEntityName>AQUA GLASS CORPORATION,</com:LegalEntityName>
+                    <com:Contact com:languageCode="en">
+                        <com:Name>
+                            <com:EntityName com:languageCode="en">AQUA GLASS CORPORATION,</com:EntityName>
+                        </com:Name>
+                        <com:PostalAddressBag>
+                            <com:PostalAddress>
+                                <com:PostalStructuredAddress com:languageCode="en">
+                                    <com:AddressLineText com:sequenceNumber="1">Industrial Park,</com:AddressLineText>
+                                    <com:AddressLineText com:sequenceNumber="2">Adainsville, Tennessee, 38310,</com:AddressLineText>
+                                    <com:CountryCode>US</com:CountryCode>
+                                </com:PostalStructuredAddress>
+                            </com:PostalAddress>
+                        </com:PostalAddressBag>
+                    </com:Contact>
+                    <com:NationalLegalEntityCode>US</com:NationalLegalEntityCode>
+                </tmk:Applicant>
+            </tmk:ApplicantBag>
+            <tmk:NationalRepresentative>
+                <com:CommentText>12</com:CommentText>
+                <com:Contact com:languageCode="en">
+                    <com:Name>
+                        <com:EntityName com:languageCode="en">SMART &amp; BIGGAR LLP</com:EntityName>
+                    </com:Name>
+                    <com:PostalAddressBag>
+                        <com:PostalAddress>
+                            <com:PostalStructuredAddress com:languageCode="en">
+                                <com:AddressLineText com:sequenceNumber="1">SUITE 900, 55 METCALFE STREET</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="2">P.O. BOX 2999, STATION D</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="3">OTTAWA</com:AddressLineText>
+                                <com:GeographicRegionName com:geographicRegionCategory="Province">ONTARIO</com:GeographicRegionName>
+                                <com:CountryCode>CA</com:CountryCode>
+                                <com:PostalCode>K1P5Y6</com:PostalCode>
+                            </com:PostalStructuredAddress>
+                        </com:PostalAddress>
+                    </com:PostalAddressBag>
+                    
+                    
+                </com:Contact>
+            </tmk:NationalRepresentative>
+            <tmk:MarkEventBag>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application filed</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>30</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Filed</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Produite</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-03</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>1</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Created</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Créé</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-10</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Filing date accorded</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>31</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Formalized</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Formalisée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-06-08</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>22</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Search Recorded</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Recherche enregistrée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-08-28</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2001-12-28</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>20</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Examiner's First Report</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Premier rapport de l'examinateur</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-08-28</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application withdrawn</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>5</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Withdrawn by Owner</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Retirée par le propriétaire</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-10-19</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+            </tmk:MarkEventBag>
+            <tmk:NationalTrademarkInformation xsi:type="catmk:NationalTrademarkInformationType">
+                <tmk:RegisterCategory>Primary</tmk:RegisterCategory>
+                <tmk:ApplicationAbandonedDate>2001-10-19</tmk:ApplicationAbandonedDate>
+                <tmk:MarkCurrentStatusInternalDescriptionText>Withdrawn by Owner</tmk:MarkCurrentStatusInternalDescriptionText>
+                <catmk:TrademarkClass>
+                    <catmk:TrademarkClassCode>1</catmk:TrademarkClassCode>
+                    <catmk:TrademarkClassDescriptionBag>
+                        <catmk:TrademarkClassDescription com:languageCode="en">Trademark</catmk:TrademarkClassDescription>
+                        <catmk:TrademarkClassDescription com:languageCode="fr">Marque de commerce</catmk:TrademarkClassDescription>
+                    </catmk:TrademarkClassDescriptionBag>
+                </catmk:TrademarkClass>
+                <catmk:Legislation>
+                    <catmk:LegislationCode>1</catmk:LegislationCode>
+                    <catmk:LegislationDescriptionBag>
+                        <catmk:LegislationDescription com:languageCode="en">TMA</catmk:LegislationDescription>
+                        <catmk:LegislationDescription com:languageCode="fr">LMC (Loi sur les marques de commerce)</catmk:LegislationDescription>
+                    </catmk:LegislationDescriptionBag>
+                </catmk:Legislation>
+                <catmk:InterestedPartyBag>
+                    <catmk:InterestedParty>
+                        <catmk:InterestedPartyCategory>Applicant</catmk:InterestedPartyCategory>
+                        <com:Contact com:languageCode="en">
+                            <com:Name>
+                                <com:EntityName com:languageCode="en">AQUA GLASS CORPORATION,</com:EntityName>
+                            </com:Name>
+                            <com:PostalAddressBag>
+                                <com:PostalAddress>
+                                    <com:PostalStructuredAddress com:languageCode="en">
+                                        <com:AddressLineText com:sequenceNumber="1">Industrial Park,</com:AddressLineText>
+                                        <com:AddressLineText com:sequenceNumber="2">Adainsville, Tennessee, 38310,</com:AddressLineText>
+                                        <com:CountryCode>US</com:CountryCode>
+                                    </com:PostalStructuredAddress>
+                                </com:PostalAddress>
+                            </com:PostalAddressBag>
+                        </com:Contact>
+                    </catmk:InterestedParty>
+                </catmk:InterestedPartyBag>
+                <catmk:ClaimBag>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>15</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Proposed Use in CANADA</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimText>Proposed Use in CANADA</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Goods1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                </catmk:ClaimBag>
+                <catmk:IndexHeadingBag>
+                    <catmk:IndexHeading com:sequenceNumber="1">
+                        <catmk:IndexHeadingText>CERIDIAN</catmk:IndexHeadingText>
+                    </catmk:IndexHeading>
+                </catmk:IndexHeadingBag>
+                <catmk:MarkFeatureCategoryBag>
+                    <tmk:MarkFeatureCategory>Word</tmk:MarkFeatureCategory>
+                </catmk:MarkFeatureCategoryBag>
+            </tmk:NationalTrademarkInformation>
+        </tmk:Trademark>
+    </tmk:TrademarkBag>
+</tmk:TrademarkApplication>

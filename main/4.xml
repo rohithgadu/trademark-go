@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><tmk:TrademarkApplication xmlns:catmk="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Trademark" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:ns3="http://www.oasis-open.org/tables/exchange/1.0" xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:cacom="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Common" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" com:st96Version="V3_0" com:ipoVersion="V1_4">
+    <tmk:RequestSearch>
+        <tmk:RequestSearchCategory>Normal</tmk:RequestSearchCategory>
+    </tmk:RequestSearch>
+    <com:RequestExamination>
+        <com:RequestExaminationCategory>Normal</com:RequestExaminationCategory>
+    </com:RequestExamination>
+    <tmk:TrademarkBag>
+        <tmk:Trademark com:operationCategory="Update">
+            <com:RegistrationOfficeCode>CA</com:RegistrationOfficeCode>
+            <com:ReceivingOfficeCode>CA</com:ReceivingOfficeCode>
+            <com:ApplicationNumber>
+                <com:IPOfficeCode>CA</com:IPOfficeCode>
+                <com:ST13ApplicationNumber>300000105761600</com:ST13ApplicationNumber>
+            </com:ApplicationNumber>
+            <com:ApplicationDate>2000-05-03</com:ApplicationDate>
+            <com:FilingPlace>Canada</com:FilingPlace>
+            <com:ApplicantFileReference>60724-2943</com:ApplicantFileReference>
+            <com:ApplicationLanguageCode>en</com:ApplicationLanguageCode>
+            <tmk:MarkCurrentStatusCode>Interruption of proceeding</tmk:MarkCurrentStatusCode>
+            <tmk:MarkCurrentStatusDate>2002-06-17</tmk:MarkCurrentStatusDate>
+            <tmk:MarkCategory>Trademark</tmk:MarkCategory>
+            <tmk:MarkRepresentation>
+                <tmk:MarkFeatureCategory>Figurative</tmk:MarkFeatureCategory>
+                <tmk:MarkReproduction>
+                    <tmk:MarkImageBag>
+                        <tmk:MarkImage>
+                            <com:FileName>1057616.png</com:FileName>
+                            <com:ImageFormatCategory>PNG</com:ImageFormatCategory>
+                            <tmk:MarkImageClassification>
+                                <com:FigurativeElementClassificationBag>
+                                    <com:ViennaClassificationBag>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>1</com:ViennaCategory>
+                                            <com:ViennaDivision>13</com:ViennaDivision>
+                                            <com:ViennaSection>1</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Armillary spheres, planetaria, astronomic orbits, atomic models, molecular models</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Sphères armillaires, planétariums, orbites astronomiques, schémas d'atomes, schémas de molécules</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>3</com:ViennaCategory>
+                                            <com:ViennaDivision>9</com:ViennaDivision>
+                                            <com:ViennaSection>1</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Fish, animals of fish-like form</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Poissons, animaux ayant la forme de poissons</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>3</com:ViennaCategory>
+                                            <com:ViennaDivision>9</com:ViennaDivision>
+                                            <com:ViennaSection>10</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Other fish</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Autres poissons</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>26</com:ViennaCategory>
+                                            <com:ViennaDivision>1</com:ViennaDivision>
+                                            <com:ViennaSection>5</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">More than two circles or ellipses, inside one another, spirals</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Plus de deux cercles ou ellipses, les uns dans les autres, spirales</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>26</com:ViennaCategory>
+                                            <com:ViennaDivision>1</com:ViennaDivision>
+                                            <com:ViennaSection>24</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Circles or ellipses with dark surfaces or parts of surfaces</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Cercles ou ellipses avec surface ou partie de la surface foncée</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                    </com:ViennaClassificationBag>
+                                </com:FigurativeElementClassificationBag>
+                            </tmk:MarkImageClassification>
+                        </tmk:MarkImage>
+                    </tmk:MarkImageBag>
+                </tmk:MarkReproduction>
+            </tmk:MarkRepresentation>
+            <tmk:NonUseCancelledIndicator>false</tmk:NonUseCancelledIndicator>
+            <tmk:TradeDistinctivenessIndicator>false</tmk:TradeDistinctivenessIndicator>
+            <tmk:UseRight>
+                <tmk:UseRightIndicator>false</tmk:UseRightIndicator>
+            </tmk:UseRight>
+            <com:CommentText>The Canadian Intellectual Property Office does not warrant the accuracy of the information contained within this database. Recent updates, corrections or changes may not be included. / L'Office de la propriété intellectuelle du Canada ne garantit pas l'exactitude de l'information contenue dans cette base de données. Il se peut que les mises à jour, corrections ou changements récemment effectués n'y figurent pas.</com:CommentText>
+            <tmk:GoodsServicesBag>
+                <tmk:GoodsServices>
+                    <tmk:GoodsServicesClassificationBag>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>41</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Education and entertainment</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>44</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Medical and veterinary, beauty, agricultural and forestry</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                    </tmk:GoodsServicesClassificationBag>
+                    <tmk:NationalGoodsServices>
+                        <tmk:NationalClassTotalQuantity>2</tmk:NationalClassTotalQuantity>
+                    </tmk:NationalGoodsServices>
+                    <tmk:NationalFilingBasis>
+                        <tmk:CurrentBasis>
+                            <tmk:BasisForeignApplicationIndicator>false</tmk:BasisForeignApplicationIndicator>
+                            <tmk:BasisForeignRegistrationIndicator>false</tmk:BasisForeignRegistrationIndicator>
+                            <tmk:BasisUseIndicator>false</tmk:BasisUseIndicator>
+                            <tmk:BasisIntentToUseIndicator>true</tmk:BasisIntentToUseIndicator>
+                            <tmk:NoBasisIndicator>false</tmk:NoBasisIndicator>
+                        </tmk:CurrentBasis>
+                    </tmk:NationalFilingBasis>
+                    <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                    <tmk:ClassDescriptionBag>
+                        <tmk:ClassDescription>
+                            <tmk:GoodsServicesDescriptionText com:sequenceNumber="Services1" com:languageCode="en">Informational services relating to and sales of bioinformatic software, reagents, kits, tools and instruments for biotechnology, news services, job listings and literature retrieval relating to biotechnology which may be provided by on-line communication.</tmk:GoodsServicesDescriptionText>
+                        </tmk:ClassDescription>
+                    </tmk:ClassDescriptionBag>
+                </tmk:GoodsServices>
+            </tmk:GoodsServicesBag>
+            <tmk:PriorityBag>
+                <tmk:Priority>
+                    <com:PriorityCountryCode>US</com:PriorityCountryCode>
+                    <com:ApplicationNumber>
+                        <com:ApplicationNumberText>75/841,941</com:ApplicationNumberText>
+                    </com:ApplicationNumber>
+                    <com:PriorityApplicationFilingDate>1999-11-05</com:PriorityApplicationFilingDate>
+                    <tmk:PriorityPartialGoodsServices>
+                        <tmk:ClassDescriptionBag>
+                            <tmk:ClassDescription>
+                                <tmk:GoodsServicesDescriptionText com:sequenceNumber="Services1" com:languageCode="en">Informational services relating to and sales of bioinformatic software, reagents, kits, tools and instruments for biotechnology, news services, job listings and literature retrieval relating to biotechnology which may be provided by on-line communication.</tmk:GoodsServicesDescriptionText>
+                            </tmk:ClassDescription>
+                        </tmk:ClassDescriptionBag>
+                    </tmk:PriorityPartialGoodsServices>
+                </tmk:Priority>
+            </tmk:PriorityBag>
+            <tmk:ApplicantBag>
+                <tmk:Applicant>
+                    <com:LegalEntityName>BIOWIRE.COM, INC.,</com:LegalEntityName>
+                    <com:Contact com:languageCode="en">
+                        <com:Name>
+                            <com:EntityName com:languageCode="en">BIOWIRE.COM, INC.,</com:EntityName>
+                        </com:Name>
+                        <com:PostalAddressBag>
+                            <com:PostalAddress>
+                                <com:PostalStructuredAddress com:languageCode="en">
+                                    <com:AddressLineText com:sequenceNumber="1">986 Baileyana,</com:AddressLineText>
+                                    <com:AddressLineText com:sequenceNumber="2">Hillsborough, California 94010,</com:AddressLineText>
+                                    <com:CountryCode>US</com:CountryCode>
+                                </com:PostalStructuredAddress>
+                            </com:PostalAddress>
+                        </com:PostalAddressBag>
+                    </com:Contact>
+                    <com:NationalLegalEntityCode>US</com:NationalLegalEntityCode>
+                </tmk:Applicant>
+            </tmk:ApplicantBag>
+            <tmk:NationalRepresentative>
+                <com:CommentText>12</com:CommentText>
+                <com:Contact com:languageCode="en">
+                    <com:Name>
+                        <com:EntityName com:languageCode="en">SMART &amp; BIGGAR LLP</com:EntityName>
+                    </com:Name>
+                    <com:PostalAddressBag>
+                        <com:PostalAddress>
+                            <com:PostalStructuredAddress com:languageCode="en">
+                                <com:AddressLineText com:sequenceNumber="1">SUITE 900, 55 METCALFE STREET</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="2">P.O. BOX 2999, STATION D</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="3">OTTAWA</com:AddressLineText>
+                                <com:GeographicRegionName com:geographicRegionCategory="Province">ONTARIO</com:GeographicRegionName>
+                                <com:CountryCode>CA</com:CountryCode>
+                                <com:PostalCode>K1P5Y6</com:PostalCode>
+                            </com:PostalStructuredAddress>
+                        </com:PostalAddress>
+                    </com:PostalAddressBag>
+                    
+                    
+                </com:Contact>
+            </tmk:NationalRepresentative>
+            <tmk:MarkEventBag>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application filed</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>30</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Filed</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Produite</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-03</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>1</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Created</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Créé</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-10</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Filing date accorded</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>31</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Formalized</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Formalisée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-06-08</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>22</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Search Recorded</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Recherche enregistrée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-10-01</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>130</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Note to file</tmk:MarkEventDescriptionText>
+                        <tmk:MarkEventAdditionalText>Rescan drawing dated October 17, 2001.</tmk:MarkEventAdditionalText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Note au dossier</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-10-17</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2002-02-28</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>20</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Examiner's First Report</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Premier rapport de l'examinateur</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-10-29</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2002-05-27</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>14</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Default Notice Sent</tmk:MarkEventDescriptionText>
+                        <tmk:MarkEventAdditionalText>Defaulting Action Date: 2001/10/29</tmk:MarkEventAdditionalText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Avis de défaut envoyé</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-03-26</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Interruption of proceeding</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>6</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Abandoned - Section 36</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Abandonnée - article 36</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-06-17</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+            </tmk:MarkEventBag>
+            <tmk:MarkFeatureDescription>JELLYFISH DESIGN</tmk:MarkFeatureDescription>
+            <tmk:NationalTrademarkInformation xsi:type="catmk:NationalTrademarkInformationType">
+                <tmk:RegisterCategory>Primary</tmk:RegisterCategory>
+                <tmk:ApplicationAbandonedDate>2002-06-17</tmk:ApplicationAbandonedDate>
+                <tmk:MarkCurrentStatusInternalDescriptionText>Abandoned Section 36</tmk:MarkCurrentStatusInternalDescriptionText>
+                <catmk:TrademarkClass>
+                    <catmk:TrademarkClassCode>1</catmk:TrademarkClassCode>
+                    <catmk:TrademarkClassDescriptionBag>
+                        <catmk:TrademarkClassDescription com:languageCode="en">Trademark</catmk:TrademarkClassDescription>
+                        <catmk:TrademarkClassDescription com:languageCode="fr">Marque de commerce</catmk:TrademarkClassDescription>
+                    </catmk:TrademarkClassDescriptionBag>
+                </catmk:TrademarkClass>
+                <catmk:Legislation>
+                    <catmk:LegislationCode>1</catmk:LegislationCode>
+                    <catmk:LegislationDescriptionBag>
+                        <catmk:LegislationDescription com:languageCode="en">TMA</catmk:LegislationDescription>
+                        <catmk:LegislationDescription com:languageCode="fr">LMC (Loi sur les marques de commerce)</catmk:LegislationDescription>
+                    </catmk:LegislationDescriptionBag>
+                </catmk:Legislation>
+                <catmk:InterestedPartyBag>
+                    <catmk:InterestedParty>
+                        <catmk:InterestedPartyCategory>Applicant</catmk:InterestedPartyCategory>
+                        <com:Contact com:languageCode="en">
+                            <com:Name>
+                                <com:EntityName com:languageCode="en">BIOWIRE.COM, INC.,</com:EntityName>
+                            </com:Name>
+                            <com:PostalAddressBag>
+                                <com:PostalAddress>
+                                    <com:PostalStructuredAddress com:languageCode="en">
+                                        <com:AddressLineText com:sequenceNumber="1">986 Baileyana,</com:AddressLineText>
+                                        <com:AddressLineText com:sequenceNumber="2">Hillsborough, California 94010,</com:AddressLineText>
+                                        <com:CountryCode>US</com:CountryCode>
+                                    </com:PostalStructuredAddress>
+                                </com:PostalAddress>
+                            </com:PostalAddressBag>
+                        </com:Contact>
+                    </catmk:InterestedParty>
+                </catmk:InterestedPartyBag>
+                <catmk:ClaimBag>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>12</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Priority Filing</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>1999-11-05</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimForeignRegistrationNbr>75/841,941</catmk:ClaimForeignRegistrationNbr>
+                        <catmk:ClaimText>Priority Filing Date: November 05, 1999, Country: UNITED STATES OF AMERICA, Application No. 75/841,941 in association with the same kind of services</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Services1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>15</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Proposed Use in CANADA</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimText>Proposed Use in CANADA</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Services1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                </catmk:ClaimBag>
+                <catmk:MarkFeatureCategoryBag>
+                    <tmk:MarkFeatureCategory>Figurative</tmk:MarkFeatureCategory>
+                </catmk:MarkFeatureCategoryBag>
+            </tmk:NationalTrademarkInformation>
+        </tmk:Trademark>
+    </tmk:TrademarkBag>
+</tmk:TrademarkApplication>

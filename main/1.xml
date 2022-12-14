@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?><tmk:TrademarkApplication xmlns:catmk="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Trademark" xmlns:ns4="http://www.w3.org/1998/Math/MathML" xmlns:ns3="http://www.oasis-open.org/tables/exchange/1.0" xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:cacom="http://www.cipo.ic.gc.ca/standards/XMLSchema/ST96/Common" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" com:st96Version="V3_0" com:ipoVersion="V1_4">
+    <tmk:RequestSearch>
+        <tmk:RequestSearchCategory>Normal</tmk:RequestSearchCategory>
+    </tmk:RequestSearch>
+    <com:RequestExamination>
+        <com:RequestExaminationCategory>Normal</com:RequestExaminationCategory>
+    </com:RequestExamination>
+    <tmk:TrademarkBag>
+        <tmk:Trademark com:operationCategory="Update">
+            <com:RegistrationOfficeCode>CA</com:RegistrationOfficeCode>
+            <com:ReceivingOfficeCode>CA</com:ReceivingOfficeCode>
+            <com:ReceivingOfficeDate>2001-12-06</com:ReceivingOfficeDate>
+            <com:ApplicationNumber>
+                <com:IPOfficeCode>CA</com:IPOfficeCode>
+                <com:ST13ApplicationNumber>300000105761300</com:ST13ApplicationNumber>
+            </com:ApplicationNumber>
+            <com:RegistrationNumber>TMA580662</com:RegistrationNumber>
+            <com:ApplicationDate>2000-05-03</com:ApplicationDate>
+            <com:RegistrationDate>2003-05-06</com:RegistrationDate>
+            <com:FilingPlace>Canada</com:FilingPlace>
+            <com:ApplicationLanguageCode>en</com:ApplicationLanguageCode>
+            <com:ExpiryDate>2033-05-06</com:ExpiryDate>
+            <tmk:MarkCurrentStatusCode>Registration published</tmk:MarkCurrentStatusCode>
+            <tmk:MarkCurrentStatusDate>2003-05-06</tmk:MarkCurrentStatusDate>
+            <tmk:MarkCategory>Trademark</tmk:MarkCategory>
+            <tmk:MarkRepresentation>
+                <tmk:MarkFeatureCategory>Figurative</tmk:MarkFeatureCategory>
+                <tmk:MarkReproduction>
+                    <tmk:MarkImageBag>
+                        <tmk:MarkImage>
+                            <com:FileName>1057613.png</com:FileName>
+                            <com:ImageFormatCategory>PNG</com:ImageFormatCategory>
+                            <tmk:MarkImageClassification>
+                                <com:FigurativeElementClassificationBag>
+                                    <com:ViennaClassificationBag>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>4</com:ViennaCategory>
+                                            <com:ViennaDivision>5</com:ViennaDivision>
+                                            <com:ViennaSection>15</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Other forms representing an unidentifiable animal, other fantastic beings having the appearance of animals -- Note: Not including fabulous animals classified in division 4.3.</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Autres formes représentant un animal non identifiable, autres êtres de fantaisie ayant l'aspect d'un animal -- Note: Non compris les animaux fabuleux classés dans la division 4.3.</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                        <com:ViennaClassification xsi:type="cacom:ViennaClassificationType">
+                                            <com:ViennaCategory>16</com:ViennaCategory>
+                                            <com:ViennaDivision>3</com:ViennaDivision>
+                                            <com:ViennaSection>13</com:ViennaSection>
+                                            <cacom:ViennaDescriptionBag>
+                                                <cacom:ViennaDescription com:languageCode="en">Spectacles, spectacle frames</cacom:ViennaDescription>
+                                                <cacom:ViennaDescription com:languageCode="fr">Lunettes, montures de lunettes</cacom:ViennaDescription>
+                                            </cacom:ViennaDescriptionBag>
+                                        </com:ViennaClassification>
+                                    </com:ViennaClassificationBag>
+                                </com:FigurativeElementClassificationBag>
+                            </tmk:MarkImageClassification>
+                        </tmk:MarkImage>
+                    </tmk:MarkImageBag>
+                </tmk:MarkReproduction>
+            </tmk:MarkRepresentation>
+            <tmk:NonUseCancelledIndicator>false</tmk:NonUseCancelledIndicator>
+            <tmk:TradeDistinctivenessIndicator>false</tmk:TradeDistinctivenessIndicator>
+            <tmk:UseRight>
+                <tmk:UseRightIndicator>true</tmk:UseRightIndicator>
+                <tmk:UseRightText com:languageCode="en">Used in UNITED STATES OF AMERICA on goods</tmk:UseRightText>
+            </tmk:UseRight>
+            <tmk:UseRight>
+                <tmk:UseRightIndicator>true</tmk:UseRightIndicator>
+                <tmk:UseRightText com:languageCode="en">Declaration of Use filed April 15, 2003</tmk:UseRightText>
+            </tmk:UseRight>
+            <com:CommentText>The Canadian Intellectual Property Office does not warrant the accuracy of the information contained within this database. Recent updates, corrections or changes may not be included. / L'Office de la propriété intellectuelle du Canada ne garantit pas l'exactitude de l'information contenue dans cette base de données. Il se peut que les mises à jour, corrections ou changements récemment effectués n'y figurent pas.</com:CommentText>
+            <tmk:OppositionPeriodStartDate>2002-03-27</tmk:OppositionPeriodStartDate>
+            <tmk:OppositionPeriodEndDate>2002-05-27</tmk:OppositionPeriodEndDate>
+            <tmk:GoodsServicesBag>
+                <tmk:GoodsServices>
+                    <tmk:GoodsServicesClassificationBag>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>9</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Electrical, scientific and teaching apparatus and software</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>35</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Advertising, marketing, promotional and business</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                        <tmk:GoodsServicesClassification>
+                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                            <com:CommentText>CIPO Classification Code</com:CommentText>
+                            <tmk:ClassNumber>41</tmk:ClassNumber>
+                            <tmk:ClassTitleText>Education and entertainment</tmk:ClassTitleText>
+                        </tmk:GoodsServicesClassification>
+                    </tmk:GoodsServicesClassificationBag>
+                    <tmk:NationalGoodsServices>
+                        <tmk:NationalClassTotalQuantity>3</tmk:NationalClassTotalQuantity>
+                    </tmk:NationalGoodsServices>
+                    <tmk:NationalFilingBasis>
+                        <tmk:CurrentBasis>
+                            <tmk:BasisForeignApplicationIndicator>false</tmk:BasisForeignApplicationIndicator>
+                            <tmk:BasisForeignRegistrationIndicator>true</tmk:BasisForeignRegistrationIndicator>
+                            <tmk:BasisUseIndicator>true</tmk:BasisUseIndicator>
+                            <tmk:BasisIntentToUseIndicator>false</tmk:BasisIntentToUseIndicator>
+                            <tmk:NoBasisIndicator>false</tmk:NoBasisIndicator>
+                        </tmk:CurrentBasis>
+                    </tmk:NationalFilingBasis>
+                    <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                    <tmk:ClassDescriptionBag>
+                        <tmk:ClassDescription>
+                            <tmk:GoodsServicesDescriptionText com:sequenceNumber="Goods1" com:languageCode="en">Computer programs for use in the field of education in performing online interactive assessments of the knowledge and skills of students and for use in providing online individualized lessons to students and monitoring the progress of the students.</tmk:GoodsServicesDescriptionText>
+                        </tmk:ClassDescription>
+                        <tmk:ClassDescription>
+                            <tmk:GoodsServicesDescriptionText com:sequenceNumber="Services1" com:languageCode="en">Performing online interactive assessments of the knowledge and skills of primary and secondary school and college students; educational services, namely, providing online individualized lessons to students in mathematics and monitoring the progress of the students.</tmk:GoodsServicesDescriptionText>
+                        </tmk:ClassDescription>
+                    </tmk:ClassDescriptionBag>
+                </tmk:GoodsServices>
+            </tmk:GoodsServicesBag>
+            <tmk:PriorityBag>
+                <tmk:Priority>
+                    <com:PriorityCountryCode>US</com:PriorityCountryCode>
+                    <com:ApplicationNumber>
+                        <com:ApplicationNumberText>75/847,216</com:ApplicationNumberText>
+                    </com:ApplicationNumber>
+                    <com:PriorityApplicationFilingDate>1999-11-12</com:PriorityApplicationFilingDate>
+                    <tmk:PriorityPartialGoodsServices>
+                        <tmk:ClassDescriptionBag>
+                            <tmk:ClassDescription>
+                                <tmk:GoodsServicesDescriptionText com:sequenceNumber="Goods1" com:languageCode="en">Computer programs for use in the field of education in performing online interactive assessments of the knowledge and skills of students and for use in providing online individualized lessons to students and monitoring the progress of the students.</tmk:GoodsServicesDescriptionText>
+                            </tmk:ClassDescription>
+                        </tmk:ClassDescriptionBag>
+                    </tmk:PriorityPartialGoodsServices>
+                </tmk:Priority>
+                <tmk:Priority>
+                    <com:PriorityCountryCode>US</com:PriorityCountryCode>
+                    <com:ApplicationNumber>
+                        <com:ApplicationNumberText>75/863,750</com:ApplicationNumberText>
+                    </com:ApplicationNumber>
+                    <com:PriorityApplicationFilingDate>1999-11-12</com:PriorityApplicationFilingDate>
+                    <tmk:PriorityPartialGoodsServices>
+                        <tmk:ClassDescriptionBag>
+                            <tmk:ClassDescription>
+                                <tmk:GoodsServicesDescriptionText com:sequenceNumber="Services1" com:languageCode="en">Performing online interactive assessments of the knowledge and skills of primary and secondary school and college students; educational services, namely, providing online individualized lessons to students in mathematics and monitoring the progress of the students.</tmk:GoodsServicesDescriptionText>
+                            </tmk:ClassDescription>
+                        </tmk:ClassDescriptionBag>
+                    </tmk:PriorityPartialGoodsServices>
+                </tmk:Priority>
+            </tmk:PriorityBag>
+            <tmk:PublicationBag>
+                <tmk:Publication>
+                    <com:PublicationIdentifier>Vol.49 Issue 2474</com:PublicationIdentifier>
+                    <tmk:NationalPublication>
+                        <tmk:PublicationStatusCategory>Advertised</tmk:PublicationStatusCategory>
+                        <tmk:PublicationActionDate>2002-03-27</tmk:PublicationActionDate>
+                    </tmk:NationalPublication>
+                </tmk:Publication>
+            </tmk:PublicationBag>
+            <tmk:ApplicantBag>
+                <tmk:Applicant>
+                    <com:LegalEntityName>ALEKS CORPORATION,</com:LegalEntityName>
+                    <com:Contact com:languageCode="en">
+                        <com:Name>
+                            <com:EntityName com:languageCode="en">ALEKS CORPORATION,</com:EntityName>
+                        </com:Name>
+                        <com:PostalAddressBag>
+                            <com:PostalAddress>
+                                <com:PostalStructuredAddress com:languageCode="en">
+                                    <com:AddressLineText com:sequenceNumber="1">17742B Mitchell North,</com:AddressLineText>
+                                    <com:AddressLineText com:sequenceNumber="2">Irvine, California 92614,</com:AddressLineText>
+                                    <com:CountryCode>US</com:CountryCode>
+                                </com:PostalStructuredAddress>
+                            </com:PostalAddress>
+                        </com:PostalAddressBag>
+                    </com:Contact>
+                    <com:NationalLegalEntityCode>US</com:NationalLegalEntityCode>
+                </tmk:Applicant>
+            </tmk:ApplicantBag>
+            <tmk:NationalRepresentative>
+                <com:CommentText>6208</com:CommentText>
+                <com:Contact com:languageCode="en">
+                    <com:Name>
+                        <com:EntityName com:languageCode="en">MOFFAT &amp; CO.</com:EntityName>
+                    </com:Name>
+                    <com:PostalAddressBag>
+                        <com:PostalAddress>
+                            <com:PostalStructuredAddress com:languageCode="en">
+                                <com:AddressLineText com:sequenceNumber="1">P.O. Box 2088, Station D</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="2">Suite 715-11 Holland Avenue</com:AddressLineText>
+                                <com:AddressLineText com:sequenceNumber="3">Ottawa</com:AddressLineText>
+                                <com:GeographicRegionName com:geographicRegionCategory="Province">ONTARIO</com:GeographicRegionName>
+                                <com:CountryCode>CA</com:CountryCode>
+                                <com:PostalCode>K1Y4S1</com:PostalCode>
+                            </com:PostalStructuredAddress>
+                        </com:PostalAddress>
+                    </com:PostalAddressBag>
+                    
+                    
+                </com:Contact>
+            </tmk:NationalRepresentative>
+            <tmk:MarkEventBag>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application filed</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>30</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Filed</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Produite</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-03</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>1</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Created</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Créé</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-05-10</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Filing date accorded</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>31</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Formalized</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Formalisée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2000-06-08</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>22</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Search Recorded</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Recherche enregistrée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-09-28</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2002-02-09</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>20</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Examiner's First Report</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Premier rapport de l'examinateur</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2001-10-09</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application accepted</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>26</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Approved</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Approuvée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-02-22</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Application published</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>42</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Advertised</tmk:MarkEventDescriptionText>
+                        <tmk:MarkEventAdditionalText>Vol.49 Issue 2474</tmk:MarkEventAdditionalText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Publiée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-03-27</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>50</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Allowed</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Admise</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-06-13</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2003-05-03</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>51</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Allowance Notice Sent</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Avis d'admission envoyé</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2002-06-13</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>Registration published</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2018-05-06</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>55</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Registered</tmk:MarkEventDescriptionText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Enregistrée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2003-05-06</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>87</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Rep for Service Changed</tmk:MarkEventDescriptionText>
+                        <tmk:MarkEventAdditionalText>From: 12   To: 6208  /  Voir Preuve au dossier/See evidence on File No. 1056844</tmk:MarkEventAdditionalText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Changement de représentant pour signification</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2014-02-28</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+                <tmk:MarkEvent>
+                    <tmk:MarkEventCategory>National prosecution history entry</tmk:MarkEventCategory>
+                    <tmk:MarkEventResponseDate>2033-05-06</tmk:MarkEventResponseDate>
+                    <tmk:NationalMarkEvent xsi:type="catmk:NationalMarkEventType">
+                        <tmk:MarkEventCode>61</tmk:MarkEventCode>
+                        <tmk:MarkEventDescriptionText>Renewed</tmk:MarkEventDescriptionText>
+                        <tmk:MarkEventAdditionalText>DP:2018/05/04  RD:2018/05/04  RR:(6208)  MOFFAT &amp; CO.</tmk:MarkEventAdditionalText>
+                        <catmk:MarkEventOtherLanguageDescriptionTextBag>
+                            <catmk:MarkEventDescriptionText com:languageCode="fr">Renouvelée</catmk:MarkEventDescriptionText>
+                        </catmk:MarkEventOtherLanguageDescriptionTextBag>
+                    </tmk:NationalMarkEvent>
+                    <tmk:MarkEventDate>2018-05-06</tmk:MarkEventDate>
+                </tmk:MarkEvent>
+            </tmk:MarkEventBag>
+            <tmk:MarkFeatureDescription>FANCIFUL DOG DESIGN</tmk:MarkFeatureDescription>
+            <tmk:NationalTrademarkInformation xsi:type="catmk:NationalTrademarkInformationType">
+                <tmk:RegisterCategory>Primary</tmk:RegisterCategory>
+                <tmk:MarkCurrentStatusInternalDescriptionText>Registered</tmk:MarkCurrentStatusInternalDescriptionText>
+                <com:RenewalDate>2018-05-06</com:RenewalDate>
+                <catmk:AllowedDate>2002-06-13</catmk:AllowedDate>
+                <catmk:TrademarkClass>
+                    <catmk:TrademarkClassCode>1</catmk:TrademarkClassCode>
+                    <catmk:TrademarkClassDescriptionBag>
+                        <catmk:TrademarkClassDescription com:languageCode="en">Trademark</catmk:TrademarkClassDescription>
+                        <catmk:TrademarkClassDescription com:languageCode="fr">Marque de commerce</catmk:TrademarkClassDescription>
+                    </catmk:TrademarkClassDescriptionBag>
+                </catmk:TrademarkClass>
+                <catmk:Legislation>
+                    <catmk:LegislationCode>1</catmk:LegislationCode>
+                    <catmk:LegislationDescriptionBag>
+                        <catmk:LegislationDescription com:languageCode="en">TMA</catmk:LegislationDescription>
+                        <catmk:LegislationDescription com:languageCode="fr">LMC (Loi sur les marques de commerce)</catmk:LegislationDescription>
+                    </catmk:LegislationDescriptionBag>
+                </catmk:Legislation>
+                <catmk:InterestedPartyBag>
+                    <catmk:InterestedParty>
+                        <catmk:InterestedPartyCategory>Applicant</catmk:InterestedPartyCategory>
+                        <com:Contact com:languageCode="en">
+                            <com:Name>
+                                <com:EntityName com:languageCode="en">ALEKS CORPORATION,</com:EntityName>
+                            </com:Name>
+                            <com:PostalAddressBag>
+                                <com:PostalAddress>
+                                    <com:PostalStructuredAddress com:languageCode="en">
+                                        <com:AddressLineText com:sequenceNumber="1">17742B Mitchell North,</com:AddressLineText>
+                                        <com:AddressLineText com:sequenceNumber="2">Irvine, California 92614,</com:AddressLineText>
+                                        <com:CountryCode>US</com:CountryCode>
+                                    </com:PostalStructuredAddress>
+                                </com:PostalAddress>
+                            </com:PostalAddressBag>
+                        </com:Contact>
+                    </catmk:InterestedParty>
+                    <catmk:InterestedParty>
+                        <catmk:InterestedPartyCategory>Registrant</catmk:InterestedPartyCategory>
+                        <com:Contact com:languageCode="en">
+                            <com:Name>
+                                <com:EntityName com:languageCode="en">ALEKS CORPORATION,</com:EntityName>
+                            </com:Name>
+                            <com:PostalAddressBag>
+                                <com:PostalAddress>
+                                    <com:PostalStructuredAddress com:languageCode="en">
+                                        <com:AddressLineText com:sequenceNumber="1">17742B Mitchell North,</com:AddressLineText>
+                                        <com:AddressLineText com:sequenceNumber="2">Irvine, California 92614,</com:AddressLineText>
+                                        <com:CountryCode>US</com:CountryCode>
+                                    </com:PostalStructuredAddress>
+                                </com:PostalAddress>
+                            </com:PostalAddressBag>
+                        </com:Contact>
+                    </catmk:InterestedParty>
+                </catmk:InterestedPartyBag>
+                <catmk:ClaimBag>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>12</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Priority Filing</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>1999-11-12</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimForeignRegistrationNbr>75/847,216</catmk:ClaimForeignRegistrationNbr>
+                        <catmk:ClaimText>Priority Filing Date: November 12, 1999, Country: UNITED STATES OF AMERICA, Application No. 75/847,216 in association with the same kind of goods</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Goods1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>12</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Priority Filing</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>2</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>1999-11-12</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimForeignRegistrationNbr>75/863,750</catmk:ClaimForeignRegistrationNbr>
+                        <catmk:ClaimText>Priority Filing Date: November 12, 1999, Country: UNITED STATES OF AMERICA, Application No. 75/863,750 in association with the same kind of services</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Services1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>13</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Foreign Use</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimText>Used in UNITED STATES OF AMERICA on goods</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Goods1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>14</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Foreign Registration</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>2001-05-22</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimForeignRegistrationNbr>2,452,773</catmk:ClaimForeignRegistrationNbr>
+                        <catmk:ClaimText>Registered in or for UNITED STATES OF AMERICA on May 22, 2001, under No. 2,452,773 on services</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Services1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>14</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Foreign Registration</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>2</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>2000-10-03</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimCountryCode>US</catmk:ClaimCountryCode>
+                        <catmk:ClaimForeignRegistrationNbr>2,391,684</catmk:ClaimForeignRegistrationNbr>
+                        <catmk:ClaimText>Registered in or for UNITED STATES OF AMERICA on October 03, 2000, under No. 2,391,684 on goods</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Goods1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                    <catmk:Claim>
+                        <catmk:ClaimCategoryType>16</catmk:ClaimCategoryType>
+                        <catmk:ClaimTypeDescription com:languageCode="en">Declaration of Use</catmk:ClaimTypeDescription>
+                        <catmk:ClaimNumber>1</catmk:ClaimNumber>
+                        <catmk:ClaimDate>
+                            <catmk:StructuredClaimDate>2003-04-15</catmk:StructuredClaimDate>
+                        </catmk:ClaimDate>
+                        <catmk:ClaimText>Declaration of Use filed April 15, 2003</catmk:ClaimText>
+                        <catmk:GoodsServicesReferenceBag>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Goods1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                            <catmk:GoodsServicesReference>
+                                <catmk:GoodsServicesReferenceIdentifier>Services1</catmk:GoodsServicesReferenceIdentifier>
+                            </catmk:GoodsServicesReference>
+                        </catmk:GoodsServicesReferenceBag>
+                    </catmk:Claim>
+                </catmk:ClaimBag>
+                <catmk:MarkFeatureCategoryBag>
+                    <tmk:MarkFeatureCategory>Figurative</tmk:MarkFeatureCategory>
+                </catmk:MarkFeatureCategoryBag>
+            </tmk:NationalTrademarkInformation>
+        </tmk:Trademark>
+    </tmk:TrademarkBag>
+</tmk:TrademarkApplication>
